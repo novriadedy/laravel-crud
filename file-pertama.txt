@@ -1,1 +1,3 @@
 test, 
+
+aplikasi stocks laravel 5.4.36
